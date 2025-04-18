@@ -42,8 +42,8 @@ The system has been evaluated using standard recommendation metrics on the Movie
 
 | Model    | RMSE   | MAE    | Training Time |
 |----------|--------|--------|---------------|
-| NeuMF    | 1.1616 | 0.9427 | ~5 minutes    |
-| SVD      | 0.8763 | 0.6711 | ~30 seconds   |
+| NeuMF    | 1.1616 | 0.9427 | ~20 minutes    |
+| SVD      | 0.8763 | 0.6711 | ~1 minute   |
 | SVD++    | 0.8763 | 0.6711 | ~2 minutes    |
 | ItemKNN  | 0.9889 | 0.7673 | ~1 minute     |
 | Hybrid   | 0.9507 | 0.7630 | ~6 minutes    |
