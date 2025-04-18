@@ -53,7 +53,7 @@ The system has been evaluated using standard recommendation metrics on the Movie
 - **SVD** shows excellent performance with:
   - RMSE of 0.8763 (lowest error)
   - MAE of 0.6711 (most accurate predictions)
-  - Fastest training time (~30 seconds)
+  - Fastest training time (~i minute)
 
 - **NeuMF** provides strong performance:
   - RMSE of 1.1616
